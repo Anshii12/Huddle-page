@@ -27,9 +27,7 @@ Users should be able to:
 ![](./screenshots/mobile-view.png)
 
 ### Links
-
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ( https://anshii12.github.io/frontend-mentor-challenge2/)
 
 ### Built with
 
