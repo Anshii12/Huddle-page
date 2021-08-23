@@ -27,7 +27,7 @@ Users should be able to:
 ![](./screenshots/mobile-view.png)
 
 ### Links
-- Live Site URL: ( https://anshii12.github.io/frontend-mentor-challenge2/)
+- Live Site URL: ( https://anshii12.github.io/Huddle-page/)
 
 ### Built with
 
